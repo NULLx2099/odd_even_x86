@@ -1,7 +1,7 @@
 # odd_even_x86
 
 This program finds out whether a number is odd or even. 
-The number value itself is hard-coded and moved into rdi registry. 
+The number value itself is hard-coded <i>(in hexadecimal)</i> and moved into rdi registry. 
 
 Compile:
 
