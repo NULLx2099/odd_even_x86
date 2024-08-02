@@ -6,7 +6,7 @@ The number value itself is hard-coded and moved into rdi registry.
 Compile:
 
 I used GCC to compile. 
-Feel free to use what you are comfortable with.
+Feel free to use whatever you are comfortable with.
 
 Compiling into an ELF-file
 ```sh
