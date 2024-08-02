@@ -7,8 +7,10 @@ Compile:
 
 I used GCC to compile. 
 Feel free to use whatever you are comfortable with.
+<br>
+<br>
 
-## Compiling into an ELF-file
+## Compiling into an ELF-file:
 ```sh
 gcc -nostdlib -o odd_even_bitwise.o odd_even_bitwise.s
 ```
